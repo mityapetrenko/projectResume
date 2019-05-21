@@ -8,4 +8,8 @@
 * Dmitriy Petrenko
 * Ben P
 
+### Live App on Heroku
 https://project-resume-1.herokuapp.com
+
+### Preview
+![Resume Tracker](public/img/resume-tracker.png)
