@@ -11,5 +11,18 @@
 ### Live App on Heroku
 https://project-resume-1.herokuapp.com
 
+### Technologies used
+* HTML															
+* CSS
+* Bootstrap
+* Javascript & jQuery
+* NodeJS
+* Express
+* GitHub API
+* MVC Structure
+* Node-Mailer
+* MomentJS
+
+
 ### Preview
 ![Resume Tracker](public/img/resume-tracker.png)
